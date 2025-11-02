@@ -1,7 +1,5 @@
-mermaid
-%% Diagrama de casos de uso - FISI-Connect
-usecaseDiagram
-title FISI-Connect
+
+%# Diagrama de casos de uso 
 
 actor Usuario
 actor Administrador
