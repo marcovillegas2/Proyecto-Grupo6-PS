@@ -14,4 +14,4 @@ Actores: Usuario, Administrador
 
 - Administrador --> (Moderación de contenido)
 
-![Diagrama de casos de uso](docs/guide01/analisisdiseno/diagrama-casos.jpg)
+![Diagrama de casos de uso](diagrama-casos.jpg)
